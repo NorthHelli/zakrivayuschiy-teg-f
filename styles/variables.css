@@ -2,7 +2,7 @@
 
 :root {
   --font-main: "Inter", sans-serif;
-  --font-additional: "PressStart2P", monospace;
+  --font-additional: "PressStart2P", fantasy;
 
   --font-weight-main-title: 400;
   --font-weight-main: 410;
@@ -11,12 +11,10 @@
   --accent-color: #000000;
   --text-color: #ffffff;
 
-
   --heart-contour-color: #000;
   --heart-body-color: transparent;
   --heart-core-color: transparent;
   --heart-active-color: #ff0000;
-
 
   --contour-color: var(--accent-color);
   --animation-fill-color: #ff0000;
