@@ -300,7 +300,6 @@
 .save__button__text {
   font-family: var(--font-additional);
   font-size: 14px;
-  text-transform: uppercase;
 }
 
 .save__button {
